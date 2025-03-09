@@ -1,4 +1,23 @@
 # Logs
+app/node_modules
+app/.next
+app/.env
+app/.env.local
+app/.env.development
+app/.env.development.local
+app/.env.test
+app/.env.test.local
+app/.env.production
+app/.env.production.local
+app/.env.staging
+app/.env.staging.local
+app/.env.production.local
+app/.env.staging.local
+app/.env.local
+app/.env.development.local
+app/.env.test.local
+app/.env.production.local
+app/.env.staging.local
 logs
 *.log
 npm-debug.log*
